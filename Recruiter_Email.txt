@@ -1,0 +1,21 @@
+Subject: Autonomous DevOps Dashboard — Founder Showcase
+
+Hi [Recruiter Name],
+
+I wanted to share my latest engineering milestone — a fully automated, self-healing DevOps dashboard built for real-time monitoring, recruiter-grade storytelling, and public broadcast.
+
+?? Panic macros for instant recovery  
+?? Live metrics synced with GA telemetry  
+??? Watchdog tab with self-healing triggers  
+?? Zipped audit trail + narration overlays  
+?? Visual storytelling blocks across all tabs  
+
+You can preview the dashboard and download the zipped showcase here:  
+[GitHub Repo Link]  
+[Live Demo Link]
+
+Every tab is telemetry-enabled, milestone-locked, and demo-polished. I’d love to connect and explore opportunities where this kind of engineering impact can shine.
+
+Best,  
+Varun Paruchuri  
+Founder, ai-devops-dashboard  
