@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Watchdog Summary</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #111; color: #0f0; }
+    h1 { color: #0ff; }
+    .log { margin-top: 20px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <h1>?? Watchdog Summary — Analytics Events</h1>
+  <div class='log' id='eventLog'>Waiting for events...</div>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    const logDiv = document.getElementById('eventLog');
+
+    function renderEvents() {
+      logDiv.innerHTML = '';
+      dataLayer.forEach((event, i) => {
+        logDiv.innerHTML += <div>[] ? </div>;
+      });
+    }
+
+    setInterval(renderEvents, 3000);
+  </script>
+</body>
+</html>
